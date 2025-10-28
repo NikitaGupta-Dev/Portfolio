@@ -14,32 +14,32 @@ Showcases my projects, skills, and experience with smooth navigation, scroll ani
 
 ## ✨ **Features**
 
-Responsive design for all screen sizes
+** Responsive design for all screen sizes
 
-Smooth scrolling navigation
+** Smooth scrolling navigation
 
-Scroll animations using AOS library
+** Scroll animations using AOS library
 
-Display of projects with live links and GitHub repos
+** Display of projects with live links and GitHub repos
 
-Showcase of skills with usage of react-icons
+** Showcase of skills with usage of react-icons
 
-Mobile friendly hamburger menu
+**Mobile friendly hamburger menu
 
 ---
 
 
 ## 💻 **Tech Stack**
 
-React.js (with functional components and hooks
+** React.js (with functional components and hooks
 
-Tailwind CSS for styling
+** Tailwind CSS for styling
 
-AOS for scroll animations
+** AOS for scroll animations
 
-React Router for routing and navigation
+** React Router for routing and navigation
 
-React Icons for visual elements
+** React Icons for visual elements
 
 ---
 ## 📸 Screenshots
