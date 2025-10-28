@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+.nav-link {
+padding: 0.4rem 1rem;
+  color: #ffffff;
+  border-radius: 5px;
+    border: 1px solid transparent;
+     transition:  0.3s ease-in;
+     font-size: 18px;
+      background-color: #146180;
+     /* font-weight: normal; */
+}
+
+/* .nav-link.active {
+  background-color: #146180;
+
+} */
+.nav-link:hover {
+  color: whitesmoke;
+  background-color: rgba(239, 231, 231, 0.173);
+  transition: 0.2s ease;
+}
