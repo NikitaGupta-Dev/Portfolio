@@ -8,7 +8,7 @@ Showcases my projects, skills, and experience with smooth navigation, scroll ani
 
 ## 🌐 **Live Demo**
 
-🔗 [View the live website](https://foodbook-recipe-web-by-nikitah-guptaa.netlify.app/)
+🔗 [View the live website](https://nikitahguptaa-portfolio.netlify.app/)
 
 ---
 
