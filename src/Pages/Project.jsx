@@ -108,7 +108,7 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
 {/* Portfolio web project */}
             <div className="flex flex-col md:flex-row items-center justify-center w-full gap-10 px-10"  data-aos="slide-up"  >
         <a
-          href="https://nikitahguptaa-portfolio.netlify.app/"
+          href="https://nikitah-guptah-portfolio.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="block max-w-[90vw] md:max-w-[350px] lg:max-w-[500px] flex-shrink-0"  
@@ -130,7 +130,7 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
             >
               <FaGithub className="hover:rotate-6" />
             </a>
-           <a href="https://nikitahguptaa-portfolio.netlify.app/" target="blank"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"><FaRocket className="hover:rotate-45 transform transition-transform duration-300  "/></a>
+           <a href="https://nikitah-guptah-portfolio.netlify.app/" target="blank"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"><FaRocket className="hover:rotate-45 transform transition-transform duration-300  "/></a>
           </div>
           <p className="mb-4 text-lg text-center md:text-left  tracking-wide pb-4">
 A self-developed portfolio to showcase my web development projects and skills. Designed mobile-first, deployed on Netlify, with interactive UI and responsive design
