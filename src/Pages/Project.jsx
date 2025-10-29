@@ -109,7 +109,7 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
             <div className="flex flex-col md:flex-row items-center justify-center w-full gap-10 px-10"  data-aos="slide-up"  >
         <a
           href="https://nikitah-guptah-portfolio.netlify.app/"
-          target="_blank"
+       target="_blank"
           rel="noopener noreferrer"
           className="block max-w-[90vw] md:max-w-[350px] lg:max-w-[500px] flex-shrink-0"  
         >
@@ -126,7 +126,7 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
           <div className="flex flex-row items-center justify-center gap-6">
             <a
               href="https://github.com/NikitaGupta-Dev?tab=repositories"
-              target="blanck"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"
+              target="_blank" className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"
             >
               <FaGithub className="hover:rotate-6" />
             </a>
