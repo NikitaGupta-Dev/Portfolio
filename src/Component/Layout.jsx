@@ -5,16 +5,19 @@ import Skill from '../Pages/Skill';
 import Project from '../Pages/Project';
 import Contact from '../Pages/Contact';
 import About from '../Pages/About';
+import { Outlet } from 'react-router-dom';
 
 function Layout() {
   return (
     <>
       <Navbar />
-      <Home />
+      
+        <Home />
       <Project />
       <Skill />
-      <About />
-      <Contact />
+      <About /> 
+      <Contact /> 
+      
     </>
   );
 }

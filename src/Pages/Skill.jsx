@@ -9,7 +9,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Skill() {
   return (
-   <div id='skill' className="bg-[#22282C] py-50  text-center" data-aos="flip-left">
+   <div id='skill' className="bg-[#22282C] py-50  text-center" data-aos="zoom-in">
   <h2 className="text-4xl font-bold text-white mb-12">My Core Skills</h2>
   <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-5 justify-center items-end mx-auto max-w-5xl">
    

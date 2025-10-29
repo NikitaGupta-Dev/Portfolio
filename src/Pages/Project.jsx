@@ -63,7 +63,7 @@ export default function Project() {
      
     <div className="flex flex-col md:flex-row items-center justify-center w-full gap-10 px-10"  data-aos="slide-up">
         <a
-          href="https://mindfulness-website-bynikita.netlify.app/"
+        href="https://foodbook-recipe-web-by-nikitah-guptaa.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="block max-w-[90vw] md:max-w-[350px] lg:max-w-[500px] flex-shrink-0"
@@ -114,7 +114,7 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
           className="block max-w-[90vw] md:max-w-[350px] lg:max-w-[500px] flex-shrink-0"  
         >
           <img
-            src="Portfolio.png"
+            src="portfolio.png"
             alt="FoodBook Project"
             className="w-full rounded-lg shadow-lg cursor-pointer hover:-translate-y-3 transition-transform duration-300"
             style={{ height: 'auto' }}
