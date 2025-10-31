@@ -37,7 +37,7 @@ export default function Home() {
 
           
           <a
-            href="/Public/pdf.pdf"
+            href="/public/CV.pdf"
             target="_blank"
             className="font-semibold text-xl px-7 py-3 rounded-lg bg-transparent text-white border border-gray-700 flex items-center gap-2 cursor-pointer hover:bg-gray-700"
           >

@@ -43,8 +43,11 @@ export default function Project() {
             </a>
            <a href="https://mindfulness-website-bynikita.netlify.app/" target="blank"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"><FaRocket className="hover:rotate-45 transform transition-transform duration-300  "/></a>
           </div>
-          <p className="mb-4 text-lg text-center md:text-left  tracking-wide pb-4">
-         A peaceful digital space for meditation, relaxation, and mindfulness practice. Designed to help you calm your mind, reduce stress, improve sleep, and reconnect with yourself.
+          <p className="mb-4 text-lg text-center md:text-left  tracking-wide">
+       Designed a calming meditation space focusing on stress relief and better sleep.  
+Built using HTML, CSS, and JavaScript, featuring interactive session controls (play/pause), smooth UI animations, and fully responsive design for mobile and desktop.  
+Optimized for all devices, deployed on Netlify.
+
           </p>
           <ul className="flex flex-wrap  gap-4 text-lg mb-30">
             <li className="px-5 py-2 bg-black  text-white rounded-full border border-black hover:bg-gray-600">
@@ -87,9 +90,11 @@ export default function Project() {
             </a>
            <a href="https://foodbook-recipe-web-by-nikitah-guptaa.netlify.app/" target="blank"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"><FaRocket className="hover:rotate-45 transform transition-transform duration-300  "/></a>
           </div>
-          <p className="mb-4 text-lg text-center md:text-left  tracking-wide pb-4">
-        A modern and responsive React application for discovering delicious recipes from around the world.
-Built to help food enthusiasts explore, search, and learn cooking techniques with ease and style.
+          <p className="mb-4 text-lg text-center md:text-left  tracking-wide ">
+Created a modern React-based recipe explorer that allows users to search, filter, and discover  global recipes.  
+Integrated TheMealDB API for dynamic content, Bootstrap and Tailwind CSS for clean layout, with YouTube video cooking guides directly embedded.  
+Implemented error handling and loading states for reliable user experience across all devices.
+
           </p>
           <ul className="flex flex-wrap gap-4 text-lg mb-30">
             <li className="px-5 py-2 bg-black  text-white rounded-full border border-black hover:bg-gray-600">
@@ -132,8 +137,11 @@ Built to help food enthusiasts explore, search, and learn cooking techniques wit
             </a>
            <a href="https://nikitah-guptah-portfolio.netlify.app/" target="blank"  className="text-3xl mb-2 px-3 py-2 rounded-lg border border-black bg-black text-white hover:bg-gray-700"><FaRocket className="hover:rotate-45 transform transition-transform duration-300  "/></a>
           </div>
-          <p className="mb-4 text-lg text-center md:text-left  tracking-wide pb-4">
-A self-developed portfolio to showcase my web development projects and skills. Designed mobile-first, deployed on Netlify, with interactive UI and responsive design
+          <p className="mb-4 text-lg text-center md:text-left  tracking-wide ">
+Built a responsive personal website showcasing my work.  
+Used React and Tailwind CSS for fast performance, designed interactive multi-page navigation, custom animations, and smooth scrolling for a professional look.  
+Features downloadable resume, live project demos, and contact options—deployed on Netlify.
+
           </p>
           <ul className="flex flex-wrap gap-4 text-lg mb-30">
             <li className="px-5 py-2 bg-black  text-white rounded-full border border-black hover:bg-gray-600">
