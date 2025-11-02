@@ -18,8 +18,8 @@ export default function Contact() {
     </div>
     <div className="flex items-center gap-5">
       <a href="https://github.com/NikitaGupta-Dev?tab=repositories" target="_blank" rel="noopener noreferrer" className="text-3xl hover:text-cyan-700 transition hover:scale-125"> <FaGithub /> </a>
-      <a href="https://www.linkedin.com/in/nikita-gupta-a02474360/" target="_blank" rel="noopener noreferrer" className="text-3xl hover:text-cyan-700 transition hover:scale-125"> <FaLinkedin /> </a>
-      {/* <a href="https://instagram.com/username" target="_blank" rel="noopener noreferrer" className="text-3xl hover:text-cyan-700 transition hover:scale-125"> <FaInstagram /> </a> */}
+      <a href="https://www.linkedin.com/in/nikitah-gupta/" target="_blank" rel="noopener noreferrer" className="text-3xl hover:text-cyan-700 transition hover:scale-125"> <FaLinkedin /> </a>
+      
     </div>
   </div>
   <hr className="my-4 border-t border-cyan-600/40" />
