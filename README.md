@@ -8,7 +8,7 @@ Showcases my projects, skills, and experience with smooth navigation, scroll ani
 
 ## 🌐 **Live Demo**
 
-🔗 [View the live website](https://nikitah-guptah-portfolio.netlify.app/)
+🔗 [View the live website](https://nikitah-guptaa.netlify.app/)
 
 ---
 
